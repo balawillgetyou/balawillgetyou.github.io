@@ -28,4 +28,3 @@
 
 [Anomaly Detection](https://github.com/balawillgetyou/dy/blob/f50f006bf8ed642c6c79800ddd00006ca4315ee0/AnomalyDetectionEdgeDevices20211120.pdf)  
   
-
