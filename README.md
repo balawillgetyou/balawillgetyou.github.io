@@ -17,7 +17,7 @@
   
    
    
-[***More code***](https://github.com/balawillgetyou/dy)
+[***GitHub code repo***](https://github.com/balawillgetyou/dy)
   
     
       
