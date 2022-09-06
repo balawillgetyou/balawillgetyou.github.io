@@ -1,4 +1,4 @@
-***Bala Kesavan  +91.98408.50411  scmguru@gmail.com***
+***Bala Kesavan,  +91.98408.50411,  scmguru@gmail.com, [***GitHub code repo***](https://github.com/balawillgetyou/dy)***
 
 <ul><li>Data Science projects since 2014</li><li>10 years US onsite experience</li><li>Familiar with BFSI, Pharma, Manufacturing verticals</li></ul>
   
@@ -15,11 +15,6 @@
   
 [Auto-encoder](https://github.com/balawillgetyou/2021/blob/main/anomalyDetection20210203.ipynb)   
   
-   
-   
-[***GitHub code repo***](https://github.com/balawillgetyou/dy)
-  
-    
       
 ***Data science papers published***  
 [Cognizant white paper](https://www.cognizant.com/whitepapers/optimizing-it-operations-with-natural-language-processing-codex4914.pdf)  
