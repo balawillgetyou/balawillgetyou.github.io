@@ -1,4 +1,4 @@
-***Bala Kesavan,  +91.98408.50411,  scmguru@gmail.com, [***GitHub code repo***](https://github.com/balawillgetyou/dy)***
+***Bala Kesavan,  +91.98408.50411,  scmguru@gmail.com, [GitHub code repo](https://github.com/balawillgetyou/dy)***
 
 <ul><li>Data Science projects since 2014</li><li>10 years US onsite experience</li><li>Familiar with BFSI, Pharma, Manufacturing verticals</li></ul>
   
