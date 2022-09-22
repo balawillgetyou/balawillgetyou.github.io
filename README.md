@@ -9,7 +9,7 @@
   
 [Time series - ARIMA](https://github.com/balawillgetyou/2021/blob/main/timeSeriesAnalysisRestaurantData.ipynb)  
   
-[Text classification - language model](https://github.com/balawillgetyou/2021/blob/main/FastAiPyTorchULMFiTTextClassifierWhoseLine_wStopWordsRemoval_20200701.ipynb)  
+[Text extraction - custom NER with HuggingFace](https://github.com/balawillgetyou/dy/blob/master/customNER.ipynb)  
   
 [Image classification - pretrained VGG Net](https://github.com/balawillgetyou/dy/blob/master/StateFarmDistractedDriverDetection_FeatureExtractionVsFineTuning.ipynb)  
   
