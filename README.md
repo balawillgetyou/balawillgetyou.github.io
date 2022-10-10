@@ -1,6 +1,7 @@
 ***Bala Kesavan,  +91.98408.50411,  scmguru@gmail.com, [GitHub code repo](https://github.com/balawillgetyou/dy)***
 
-<ul><li>Data Science projects since 2014</li><li>Pre-2014: Business benefits, consulting & program management. 10 years US onsite experience. Familiar with BFSI, Pharma, Manufacturing verticals<li>Since-2014: Optimal solutions - supported by data science theory</li></ul>
+<ul><li>Data Science projects since 2014</li><li>Pre-2014: Business benefits, consulting & program management. 10 years US onsite experience. Familiar with BFSI, Pharma, Manufacturing verticals</li><li>Since-2014: Optimal solutions - supported by data science theory</li></ul>
+  
   
 ***Code samples***  
 [Data structures and algorithms - LeetCode Top 50](https://github.com/balawillgetyou/2021/blob/main/DSA_top50LeetCode.ipynb)  
