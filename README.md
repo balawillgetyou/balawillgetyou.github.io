@@ -26,4 +26,10 @@
 [Failure prediction from intermittent data (Survival Analysis)](https://iopscience.iop.org/article/10.1088/1757-899X/1110/1/012017/meta)
 
 [Securing edge devices (Auto Encoder Anomaly Detection)](https://ijiemr.org/public/uploads/paper/639661672970353.pdf)  
+
+
+***Startup***  
+
+[From The Economic Times](https://github.com/balawillgetyou/balawillgetyou.github.io/blob/main/entranceGuruET.jpeg)
+
   
