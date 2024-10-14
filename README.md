@@ -16,9 +16,12 @@
   
 [Auto-encoder](https://github.com/balawillgetyou/2021/blob/main/anomalyDetection20210203.ipynb)   
   
-      
+  
+***Patents***  
+[Recruitment augmentation with digital footprint utilization (Patent applied)](https://patents.google.com/patent/US20240281767A1)  
+        
+
 ***Data science papers published***  
-[Improving First Level Resolution rates for helpdesk services (NLP)](https://www.cognizant.com/whitepapers/optimizing-it-operations-with-natural-language-processing-codex4914.pdf)  
 
 [Failure prediction from intermittent data (Survival Analysis)](https://iopscience.iop.org/article/10.1088/1757-899X/1110/1/012017/meta)
 
