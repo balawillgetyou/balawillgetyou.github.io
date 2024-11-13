@@ -4,7 +4,9 @@
   
   
 ***Code samples***  
-[Data structures and algorithms - LeetCode Top 50](https://github.com/balawillgetyou/2021/blob/main/DSA_top50LeetCode.ipynb)  
+[genAI/ AI agent](https://github.com/balawillgetyou/2021/blob/main/AI%20agents%20Essay%20Writer.ipynb)  
+
+[Data structures and algorithms - LeetCode Top 50](https://github.com/balawillgetyou/2021/blob/main/DSA_top50LeetCode.ipynb)
   
 [Regression - statistics, explanability](https://github.com/balawillgetyou/2021/blob/main/carPrices.ipynb)  
   
